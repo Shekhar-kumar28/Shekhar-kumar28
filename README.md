@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shekhar Kumar.</h1>
 <h3 align="center">A passionate frontend developer from Bangalore,India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhar-kumar28" alt="shekhar-kumar28" /></a> </p>
+
 
 - 🌱 I’m currently learning **MERN Stack.**
 
