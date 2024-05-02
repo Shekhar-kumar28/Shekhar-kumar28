@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bangalore,India</h3>
 
 
-- 🌱 I’m currently learning **MERN Stack.**
+- 🌱 I’m a **MERN Stack Developer.**
 
 👋 Hello, I'm Shekhar, and I'm passionate about creating visually appealing and highly functional websites that leave a lasting impact. With one year of experience in the fast-paced world of Frontend Development, I've honed my skills to turn ideas into reality. 
 
